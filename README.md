@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @xLouy
+- 👀 I’m interested in java,html,css,js,c#(for unity) ...
+- 🌱 I’m currently learning java,html,css,js,c# ...
+- 📫 How to reach me - https://discord.gg/8hrmDH2Jje ...
+
+<!---
+xLouy/xLouy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
